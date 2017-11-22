@@ -1,0 +1,152 @@
+User -> xino Answer ->  Level -> 0 Time ->  2017/11/05 00:01:14
+User -> minetx Answer -> facebook Level -> 0 Time ->  2017/11/05 00:01:17
+User -> xino Answer -> core Level -> 0 Time ->  2017/11/05 00:01:19
+User -> minetx Answer -> jaskirat Level -> 0 Time ->  2017/11/05 00:01:31
+User -> minetx Answer ->  Level -> 0 Time ->  2017/11/05 00:01:33
+User -> xino Answer -> rajatdepro Level -> 0 Time ->  2017/11/05 00:01:41
+User -> minetx Answer ->  Level -> 0 Time ->  2017/11/05 00:01:48
+User -> xino Answer -> rajatdepr0 Level -> 0 Time ->  2017/11/05 00:01:50
+User -> xino Answer -> rdp Level -> 0 Time ->  2017/11/05 00:02:03
+User -> xino Answer -> dpsdwarka Level -> 0 Time ->  2017/11/05 00:02:06
+User -> minetx Answer -> core Level -> 0 Time ->  2017/11/05 00:02:15
+User -> minetx Answer -> nixon Level -> 0 Time ->  2017/11/05 00:02:24
+User -> minetx Answer -> Core Level -> 0 Time ->  2017/11/05 00:02:25
+User -> xino Answer -> dpsdwarka Level -> 0 Time ->  2017/11/05 00:02:33
+User -> codewars Answer ->  Level -> 0 Time ->  2017/11/05 00:02:38
+User -> codewars Answer -> comicsans Level -> 0 Time ->  2017/11/05 00:02:43
+User -> minetx Answer -> coreisus Level -> 0 Time ->  2017/11/05 00:02:49
+User -> codewars Answer -> rdp Level -> 0 Time ->  2017/11/05 00:02:51
+User -> minetx Answer -> core Level -> 0 Time ->  2017/11/05 00:02:51
+User -> xino Answer -> answer Level -> 0 Time ->  2017/11/05 00:02:53
+User -> xino Answer -> encore Level -> 0 Time ->  2017/11/05 00:02:58
+User -> minetx Answer ->  Level -> 0 Time ->  2017/11/05 00:03:10
+User -> minetx Answer -> obsessed Level -> 0 Time ->  2017/11/05 00:03:15
+User -> minetx Answer -> Facebook Level -> 0 Time ->  2017/11/05 00:03:18
+User -> codewars Answer -> core Level -> 0 Time ->  2017/11/05 00:03:39
+User -> codewars Answer -> comicsans Level -> 0 Time ->  2017/11/05 00:03:43
+User -> codewars Answer -> core10 Level -> 0 Time ->  2017/11/05 00:03:44
+User -> codewars Answer -> toadecadeofobsession Level -> 0 Time ->  2017/11/05 00:03:51
+User -> codewars Answer -> vincentconnare Level -> 0 Time ->  2017/11/05 00:03:53
+User -> codewars Answer -> rajatde Level -> 0 Time ->  2017/11/05 00:03:54
+User -> codewars Answer -> obsessed Level -> 0 Time ->  2017/11/05 00:03:55
+User -> codewars Answer -> hailcore Level -> 0 Time ->  2017/11/05 00:03:58
+User -> codewars Answer -> includerdp Level -> 0 Time ->  2017/11/05 00:03:59
+User -> minetx Answer -> core Level -> 0 Time ->  2017/11/05 00:04:09
+User -> codewars Answer ->  Level -> 0 Time ->  2017/11/05 00:04:24
+User -> vis Answer -> kamlesh Level -> 0 Time ->  2017/11/05 00:04:48
+User -> codewars Answer -> ffa500 Level -> 0 Time ->  2017/11/05 00:04:48
+User -> minetx Answer -> nixon Level -> 0 Time ->  2017/11/05 00:04:54
+User -> codewars Answer -> jaskirat Level -> 0 Time ->  2017/11/05 00:04:55
+User -> codewars Answer -> X"D Level -> 0 Time ->  2017/11/05 00:04:58
+User -> codewars Answer ->  Level -> 0 Time ->  2017/11/05 00:05:00
+User -> bvb Answer ->  Level -> 0 Time ->  2017/11/05 00:05:02
+User -> minetx Answer -> 1729 Level -> 0 Time ->  2017/11/05 00:05:02
+User -> codewars Answer -> jaskiratdepro Level -> 0 Time ->  2017/11/05 00:05:07
+User -> minetx Answer -> CXO8S3ZZED7.8XI Level -> 0 Time ->  2017/11/05 00:05:11
+User -> bvb Answer -> core Level -> 0 Time ->  2017/11/05 00:05:13
+User -> bvb Answer ->  Level -> 0 Time ->  2017/11/05 00:05:15
+User -> codewars Answer -> rajatdepro Level -> 0 Time ->  2017/11/05 00:05:17
+User -> bvb Answer -> core10 Level -> 0 Time ->  2017/11/05 00:05:23
+User -> xino Answer -> rdp Level -> 0 Time ->  2017/11/05 00:05:24
+User -> bvb Answer -> c.o.r.e. Level -> 0 Time ->  2017/11/05 00:05:32
+User -> codewars Answer -> goshupro Level -> 0 Time ->  2017/11/05 00:05:32
+User -> minetx Answer -> facebook Level -> 0 Time ->  2017/11/05 00:05:38
+User -> bvb Answer -> computerobsessedradicalenthusiasts Level -> 0 Time ->  2017/11/05 00:06:38
+User -> xino Answer -> rajatde Level -> 0 Time ->  2017/11/05 00:06:41
+User -> codewars Answer -> no Level -> 0 Time ->  2017/11/05 00:06:45
+User -> xino Answer -> asd Level -> 0 Time ->  2017/11/05 00:06:51
+User -> xino Answer -> l0 Level -> 0 Time ->  2017/11/05 00:06:57
+User -> bgs Answer -> facebook Level -> 0 Time ->  2017/11/05 00:06:57
+User -> minetx Answer -> CX-OBSESSED-7.8xi Level -> 0 Time ->  2017/11/05 00:06:57
+User -> bvb Answer -> computerobssessedradicalenthusiasts Level -> 0 Time ->  2017/11/05 00:07:05
+User -> vis Answer -> core Level -> 0 Time ->  2017/11/05 00:07:20
+User -> vis Answer -> core Level -> 0 Time ->  2017/11/05 00:07:23
+User -> minetx Answer -> CX-OBSESSED-7.8xi Level -> 0 Time ->  2017/11/05 00:07:24
+User -> montfort Answer -> computer Level -> 0 Time ->  2017/11/05 00:07:28
+User -> montfort Answer ->  Level -> 0 Time ->  2017/11/05 00:07:29
+User -> montfort Answer -> school Level -> 0 Time ->  2017/11/05 00:07:33
+User -> xino Answer -> core Level -> 0 Time ->  2017/11/05 00:07:33
+User -> minetx Answer -> Caesar Level -> 0 Time ->  2017/11/05 00:07:35
+User -> vis Answer -> rdp Level -> 0 Time ->  2017/11/05 00:07:35
+User -> vis Answer ->  Level -> 0 Time ->  2017/11/05 00:07:38
+User -> montfort Answer -> internet Level -> 0 Time ->  2017/11/05 00:07:41
+User -> ryanr Answer ->  Level -> 0 Time ->  2017/11/05 00:07:44
+User -> bgs Answer -> page Level -> 0 Time ->  2017/11/05 00:07:48
+User -> codewars Answer -> //CXO8S3ZZED7.8XI\\ Level -> 0 Time ->  2017/11/05 00:07:50
+User -> minetx Answer ->  Level -> 0 Time ->  2017/11/05 00:07:51
+User -> vis Answer ->  Level -> 0 Time ->  2017/11/05 00:07:52
+User -> xino Answer -> computerobsessedradicalenthusiasts Level -> 0 Time ->  2017/11/05 00:07:53
+User -> bgs Answer -> Jaskirat Level -> 0 Time ->  2017/11/05 00:07:58
+User -> dpsg Answer ->  Level -> 0 Time ->  2017/11/05 00:08:01
+User -> vis Answer ->  Level -> 0 Time ->  2017/11/05 00:08:03
+User -> vis Answer -> president Level -> 0 Time ->  2017/11/05 00:08:05
+User -> montfort Answer -> software Level -> 0 Time ->  2017/11/05 00:08:07
+User -> bgs Answer -> jaskirat Level -> 0 Time ->  2017/11/05 00:08:07
+User -> minetx Answer -> c.o.r.e Level -> 0 Time ->  2017/11/05 00:08:08
+User -> vis Answer -> facebook Level -> 0 Time ->  2017/11/05 00:08:12
+User -> bgs Answer -> dps Level -> 0 Time ->  2017/11/05 00:08:14
+User -> codewars Answer -> datamatrix Level -> 0 Time ->  2017/11/05 00:08:21
+User -> codewars Answer -> CXO8S3ZZED78XI Level -> 0 Time ->  2017/11/05 00:08:23
+User -> codewars Answer -> datamatrix Level -> 0 Time ->  2017/11/05 00:08:25
+User -> bgs Answer -> notification Level -> 0 Time ->  2017/11/05 00:08:28
+User -> codewars Answer -> sigmax Level -> 0 Time ->  2017/11/05 00:08:35
+User -> vis Answer -> llcn Level -> 0 Time ->  2017/11/05 00:08:37
+User -> csi Answer ->  Level -> 0 Time ->  2017/11/05 00:08:42
+User -> csi Answer -> core Level -> 0 Time ->  2017/11/05 00:08:50
+User -> xino Answer -> rajat Level -> 0 Time ->  2017/11/05 00:08:51
+User -> exun Answer -> jaskiratgujral Level -> 0 Time ->  2017/11/05 00:08:54
+User -> vis Answer -> 420 Level -> 0 Time ->  2017/11/05 00:08:55
+User -> vis Answer -> ppy Level -> 0 Time ->  2017/11/05 00:08:59
+User -> exun Answer -> exun Level -> 0 Time ->  2017/11/05 00:09:03
+User -> vis Answer -> facebook Level -> 0 Time ->  2017/11/05 00:09:05
+User -> dpsg Answer -> Mirza Ghalib Level -> 0 Time ->  2017/11/05 00:09:05
+User -> xino Answer -> encore Level -> 0 Time ->  2017/11/05 00:09:11
+User -> vis Answer -> coreisus Level -> 0 Time ->  2017/11/05 00:09:13
+User -> ryanr Answer -> core Level -> 0 Time ->  2017/11/05 00:09:19
+User -> codewars Answer -> clapforxijingping Level -> 0 Time ->  2017/11/05 00:09:22
+User -> bvb Answer -> school Level -> 0 Time ->  2017/11/05 00:09:23
+User -> codewars Answer ->  Level -> 0 Time ->  2017/11/05 00:09:24
+User -> ryanr Answer -> eroc Level -> 0 Time ->  2017/11/05 00:09:26
+User -> minetx Answer -> Core 10 Level -> 0 Time ->  2017/11/05 00:09:27
+User -> exun Answer -> encore Level -> 0 Time ->  2017/11/05 00:09:29
+User -> dpsg Answer -> Mirza Ghalib Level -> 0 Time ->  2017/11/05 00:09:29
+User -> exun Answer -> 1 Level -> 0 Time ->  2017/11/05 00:09:31
+User -> vis Answer -> core Level -> 0 Time ->  2017/11/05 00:09:31
+User -> minetx Answer -> core10 Level -> 0 Time ->  2017/11/05 00:09:34
+User -> dpsg Answer -> CORE Level -> 0 Time ->  2017/11/05 00:09:36
+User -> minetx Answer -> core10obsessed Level -> 0 Time ->  2017/11/05 00:09:38
+User -> codewars Answer -> WELCOME TO CORE 10 Level -> 0 Time ->  2017/11/05 00:09:40
+User -> minetx Answer -> Core 10 obsessed Level -> 0 Time ->  2017/11/05 00:09:44
+User -> codewars Answer -> yes Level -> 0 Time ->  2017/11/05 00:09:45
+User -> minetx Answer ->  Level -> 0 Time ->  2017/11/05 00:09:46
+User -> minetx Answer -> obsessed Level -> 0 Time ->  2017/11/05 00:09:47
+User -> minetx Answer -> coreis.us Level -> 0 Time ->  2017/11/05 00:09:51
+User -> minetx Answer -> core10 Level -> 0 Time ->  2017/11/05 00:09:54
+User -> codewars Answer -> obsessedhai Level -> 0 Time ->  2017/11/05 00:10:00
+User -> codewars Answer -> welcometocore19 Level -> 0 Time ->  2017/11/05 00:10:00
+User -> codewars Answer -> welcometocore10 Level -> 0 Time ->  2017/11/05 00:10:01
+User -> codewars Answer ->  Level -> 0 Time ->  2017/11/05 00:10:01
+User -> exun Answer -> comicsans Level -> 0 Time ->  2017/11/05 00:10:02
+User -> codewars Answer -> welcometocore10 Level -> 0 Time ->  2017/11/05 00:10:05
+User -> minetx Answer -> toadecadeofinfiniteobsession Level -> 0 Time ->  2017/11/05 00:10:05
+User -> codewars Answer -> welcometocore10 Level -> 0 Time ->  2017/11/05 00:10:06
+User -> exun Answer -> jaskrit Level -> 0 Time ->  2017/11/05 00:10:06
+User -> minetx Answer -> texasinstruments Level -> 0 Time ->  2017/11/05 00:10:10
+User -> exun Answer -> jaskirat Level -> 0 Time ->  2017/11/05 00:10:11
+User -> codewars Answer -> welcometocore10 Level -> 0 Time ->  2017/11/05 00:10:11
+User -> exun Answer -> gujral Level -> 0 Time ->  2017/11/05 00:10:14
+User -> exun Answer -> obsessed Level -> 0 Time ->  2017/11/05 00:10:22
+User -> dpsg Answer ->  Level -> 0 Time ->  2017/11/05 00:10:23
+User -> minetx Answer -> core10obsessedb10i Level -> 0 Time ->  2017/11/05 00:10:25
+User -> dpsg Answer ->  Level -> 0 Time ->  2017/11/05 00:10:25
+User -> codewars Answer ->  Level -> 1 Time ->  2017/11/05 00:10:29
+User -> xino Answer -> nemo Level -> 0 Time ->  2017/11/05 00:10:29
+User -> codewars Answer ->  Level -> 4 Time ->  2017/11/05 00:10:36
+User -> codewars Answer -> obsessedhai Level -> 0 Time ->  2017/11/05 00:10:40
+User -> csi Answer -> core Level -> 0 Time ->  2017/11/05 00:10:44
+User -> exun Answer -> vincentconnare Level -> 0 Time ->  2017/11/05 00:10:46
+User -> exun Answer -> vincentconnare Level -> 0 Time ->  2017/11/05 00:10:49
+User -> vis Answer -> dps Level -> 0 Time ->  2017/11/05 00:10:50
+User -> csi Answer -> tanmishjha Level -> 0 Time ->  2017/11/05 00:10:54
+User -> exun Answer -> comicsansms Level -> 0 Time ->  2017/11/05 00:10:55
+User -> vis Answer -> technology Level -> 0 Time ->  2017/11/05 00:10:58
